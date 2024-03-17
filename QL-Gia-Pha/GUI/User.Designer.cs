@@ -54,6 +54,7 @@
             button3.TabIndex = 29;
             button3.Text = "Close";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button2
             // 
