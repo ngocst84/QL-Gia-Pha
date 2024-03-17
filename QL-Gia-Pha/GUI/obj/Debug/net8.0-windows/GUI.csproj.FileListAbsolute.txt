@@ -1,0 +1,39 @@
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.Login.resources
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.Main.resources
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.User.resources
+C:\Ngocst84\2024 A Dat\QL-Gia-Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.Users.resources
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\bin\Debug\net8.0-windows\GUI.exe
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\bin\Debug\net8.0-windows\GUI.dll
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\bin\Debug\net8.0-windows\GUI.pdb
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.Login.resources
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.Main.resources
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.User.resources
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.Users.resources
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.sourcelink.json
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.dll
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.pdb
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+D:\2024 Codes\QL Gia Pha\QL-Gia-Pha\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
